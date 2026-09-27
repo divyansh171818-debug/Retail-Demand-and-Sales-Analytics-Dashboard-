@@ -1,14 +1,14 @@
-# Dashboard Screenshots
+# Power BI
 
-Add the final Power BI screenshots here after the report is completed.
+Add the final Power BI report here as:
 
-Recommended files:
+`RetailDemandDashboard.pbix`
 
-- `executive_summary.png`
-- `sales_customer_analysis.png`
-- `product_demand_analysis.png`
-- `inventory_health.png`
+Recommended report pages:
 
-Recommended screenshot size: 1600×900 or similar 16:9 ratio.
+1. Executive Summary
+2. Sales & Customer Analysis
+3. Product Performance
+4. Demand & Inventory Health
 
-Do not add screenshots with fake KPI values. The numbers shown in the README and screenshots should come directly from the final dataset and refreshed Power BI report.
+Before publishing, verify that every KPI in Power BI reconciles with the SQL outputs.
